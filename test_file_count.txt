@@ -1,0 +1,13 @@
+# Test File for File Count Tracking
+
+## Purpose
+This file is uploaded to test if file analysis counts are properly tracked in user statistics.
+
+## Test Content
+- File upload functionality
+- Database vs in-memory storage tracking
+- User statistics accuracy
+- File analysis count display
+
+## Expected Result
+After uploading this file, the user's file analysis count should increase by 1 in their statistics.

@@ -1,0 +1,24 @@
+Test Educational Content
+
+This is a sample educational document for testing the file upload system.
+
+Key Concepts:
+1. Software Development Lifecycle
+2. File Processing
+3. Text Extraction
+4. API Testing
+
+This content should be analyzed by the AI system to provide educational insights.
+
+Study Points:
+- Understanding MIME types
+- File validation processes
+- Error handling in uploads
+- Fallback mechanisms
+
+Practice Questions:
+1. What is a MIME type?
+2. How does file validation work?
+3. What are fallback mechanisms?
+
+This is a comprehensive test document that covers multiple educational concepts.

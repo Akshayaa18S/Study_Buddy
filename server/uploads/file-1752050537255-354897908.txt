@@ -1,0 +1,17 @@
+# Test Study Material
+
+This is a test document about software development concepts.
+
+## Key Topics:
+- Software Development Lifecycle
+- MIME Types  
+- File Processing
+- Placeholder Text
+
+## Study Questions:
+1. What are the phases of SDLC?
+2. Why might features not be implemented yet?
+3. What is the purpose of MIME types?
+
+## Learning Objectives:
+Students should understand the iterative nature of software development and why certain features might not be available immediately. This includes understanding MIME types, file processing limitations, and the purpose of placeholder text in user interfaces.
